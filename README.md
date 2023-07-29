@@ -8,4 +8,9 @@ Timothy Kinsman, Mairieli Wessel, Marco A. Gerosa, & Christoph Treude. (2021). S
 
 Paper Reference: 
 
-Timothy Kinsman, Mairieli Wessel, Marco A. Gerosa, and Christoph Treude. 2021. How do software developers use GitHub actions to automate their workflows? 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR) (March 2021). DOI:http://dx.doi.org/10.1109/msr52588.2021.00054 
+Timothy Kinsman, Mairieli Wessel, Marco A. Gerosa, and Christoph Treude. 2021. How do software developers use GitHub actions to automate their workflows? 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR) (March 2021). DOI:http://dx.doi.org/10.1109/msr52588.2021.00054
+
+By Grad 6 group:
+
+Anuinder Sekhon
+Sri Surya Jitendra Palaparty
